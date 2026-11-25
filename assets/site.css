@@ -952,3 +952,9 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   right: 0;
   left: 0;
 }
+/* Test av bredde på ImageBanner */
+
+.f19ksn2p {
+    width: 82% !important;
+    margin: 0 auto !important;
+}
