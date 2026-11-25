@@ -958,3 +958,25 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     width: 82% !important;
     margin: 0 auto !important;
 }
+.f1hyu0ej {
+    position: relative;
+    overflow: hidden;
+}
+
+.f1hyu0ej::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background: inherit;
+    filter: blur(25px);
+    transform: scale(1.25);
+
+    opacity: 0.6;
+    z-index: 0;
+}
+
+.f19ksn2p {
+    position: relative;
+    z-index: 1;
+}
